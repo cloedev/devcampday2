@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes", "Proyectos\Recipe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipesEFCodeFirst", "Proyectos\RecipesEFCodeFirst\RecipesEFCodeFirst.csproj", "{00E88ECE-886F-45FE-80BF-18F1E49C49DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RespitronDay2", "Proyectos\RespitronDay2\RespitronDay2.csproj", "{8BCBF906-2BE3-4C9F-B375-C0EAB3B2335E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00E88ECE-886F-45FE-80BF-18F1E49C49DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E88ECE-886F-45FE-80BF-18F1E49C49DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E88ECE-886F-45FE-80BF-18F1E49C49DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCBF906-2BE3-4C9F-B375-C0EAB3B2335E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCBF906-2BE3-4C9F-B375-C0EAB3B2335E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCBF906-2BE3-4C9F-B375-C0EAB3B2335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCBF906-2BE3-4C9F-B375-C0EAB3B2335E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
